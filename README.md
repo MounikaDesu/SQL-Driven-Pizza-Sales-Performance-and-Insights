@@ -6,9 +6,12 @@ This project offers a comprehensive analysis of a pizza company's sales data usi
 
 ## Tools Used
 
-•⁠  ⁠Excel
-•⁠  ⁠MS SQL Server
-•⁠  ⁠Power BI
+<ul>
+    <li>Excel</li>
+    <li>MS SQL Server</li>
+    <li>Power BI</li>
+</ul>
+
 
 ## Dataset
 
@@ -22,9 +25,12 @@ The pizza company requires a scalable data analytics solution to manage and anal
 
 To help the pizza company gain valuable insights from their sales data CSV file, the following steps will be taken:
 
-1.⁠ ⁠*Data Cleaning/Processing*: Use SQL to clean and process the data.
-2.⁠ ⁠*Data Transformation and Analysis*: Leverage SQL functions to uncover key metrics like total revenue, average order size, and best/worst selling menu items.
-3.⁠ ⁠*Data Visualization*: Use Power BI to present findings through interactive visualizations, allowing stakeholders to explore details on daily order volume, sales by pizza type/size, and top/bottom selling items.
+<ol>
+    <li>Data Cleaning/Processing: Use SQL to clean and process the data.</li>
+    <li>Data Transformation and Analysis: Leverage SQL functions to uncover key metrics like total revenue, average order size, and best/worst selling menu items.</li>
+    <li>Data Visualization: Use Power BI to present findings through interactive visualizations, allowing stakeholders to explore details on daily order volume, sales by pizza type/size, and top/bottom selling items.</li>
+</ol>
+
 
 ## Conclusion
 
